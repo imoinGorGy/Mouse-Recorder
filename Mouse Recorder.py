@@ -78,7 +78,7 @@ replay_button.pack(pady=10)
 stop_button = tk.Button(root, text="Stop", command=stop_program)
 stop_button.pack(pady=10)
 
-info_label = tk.Label(root, text="Press 'q' to stop recording/replaying.         sade6h@gmail.com | instagram : msadeghkarimi ")
+info_label = tk.Label(root, text="Press 'q' to stop recording/replaying.          ")
 info_label.pack(pady=10)
 
 root.mainloop()
